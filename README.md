@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 **rodincode/rodincode** is a ✨ _special_ ✨ teaching academy for coders.
 Here are some of our ideas and projects:
 
-- 🔭 We currently working on chatbots.
-- 🌱 We currently learning Deep Learning.
-- 👯 We looking to collaborate on AI Labs.
-- 🤔 We looking for help with High Schools.
+- 🔭 We are currently working on chatbots.
+- 🌱 We are currently learning Deep Learning.
+- 👯 We are looking to collaborate on AI Labs.
+- 🤔 We are looking for help with High Schools.
 - 💬 Ask us about Robotics, Data Science and Python.
 - 📫 How to reach us: rodincode.bussiness.site
 - 😄 Pronouns: ...
 - ⚡ Fun fact: We make you think.
 
+ONLINE ACADEMY FOR CODERS
