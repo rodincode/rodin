@@ -25,7 +25,6 @@ Here are some of our ideas and projects:
 - 🤔 We are looking for help with High Schools.
 - 💬 Ask us about Robotics, Data Science and Python.
 - 📫 How to reach us: rodincode.bussiness.site
-- 😄 Pronouns: ...
+- 😄 Book a free demo class to see what we teach.
 - ⚡ Fun fact: We make you think.
 
-ONLINE ACADEMY FOR CODERS
