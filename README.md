@@ -28,3 +28,5 @@ Here are some of our ideas and projects:
 - 😄 Book a free demo class to see what we teach.
 - ⚡ Fun fact: We make you think.
 
+Redirect to our main websites:: https://rodincode.github.io/ or https://rodincode.herokuapp.com/ or https://rodincode.business.site/
+
