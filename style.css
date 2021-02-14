@@ -76,7 +76,7 @@ nav{
 	list-style:none
 }
 .nav-link{
-	color: #5f5f79;
+	color: #fdfdfd;
 	font-size: 18px;
 	text-decoration:none;
 }
@@ -97,7 +97,7 @@ nav{
 .intro-text h1{
 	font-size: 90px;
 	font-weight: 500;
-	background: linear-gradient(to right, #494964,#6f6f89);
+	background: linear-gradient(to right, #b6b6c8,#6f6f89);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	
